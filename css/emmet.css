@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../img/bkg.jpg);
+    background-repeat: repeat;
+    width: 70%;
+    margin: 0 auto;
+}
+h1, h2{
+    text-align: center;
+    background-color: #000;
+    color: #d2e7e2;
+    padding: 1vw; /*vw => viewport-width = Largeur de l'ecran*/
+}
+code{
+    font-size: 1.5vw;
+    font-size: italic;
+    background-color: lightgoldenrodyellow;
+}
+div{
+    background-color: #fff;
+    color: #000;
+    padding: 1vw;
+}
+img{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-left: 30%;
+    max-width: 30vw;
+
+}
